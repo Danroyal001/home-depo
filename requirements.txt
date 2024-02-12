@@ -1,15 +1,3 @@
 # requirements.txt
 
-matplotlib
-
-wordcloud
-
-scikit-learn
-
-joblib
-
-pandas
-
-Cython
-
 streamlit
